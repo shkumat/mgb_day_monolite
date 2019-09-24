@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("mgb_AMaker3")]
+[assembly: AssemblyTitle("mgb_day")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("mgb_AMaker3")]
+[assembly: AssemblyProduct("mgb_day")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("21187b4d-9843-4a6d-aa05-21061aa4d3fc")]
+[assembly: Guid("8882704c-ecce-4c80-b5d6-99e2b32fe49b")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
